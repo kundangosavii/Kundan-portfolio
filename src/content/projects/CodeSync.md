@@ -203,3 +203,4 @@ Next step:
 ## Direction
 
 The goal is to evolve from a static analyzer → decision-support tool that not only shows structure, but also helps developers take action on it.
+
